@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/a7781f04-0e6b-43ee-ac03-ecc38ccc523f" width="90"/>
+<!--<img src="https://github.com/user-attachments/assets/a7781f04-0e6b-43ee-ac03-ecc38ccc523f" width="90"/>-->
 
 # HI! MY NAME IS DANIEL GONZALEZ 👋
 ### Software Development 🧑🏻‍💻
