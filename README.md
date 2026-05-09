@@ -1,8 +1,12 @@
 <img width="1456" height="615" alt="logo_principal" src="https://github.com/user-attachments/assets/460b282f-c2d5-4376-a643-9798a1063a6b" />
 </br>
 
-# HI! MY NAME IS DANIEL GONZALEZ 👋
-### Software Development 🧑🏻‍💻
+<div align="center">
+
+# HI! MY NAME IS DANIEL GONZALEZ 👋  
+### Software Development 🧑🏻‍💻  
+
+</div>
 
 </br>
 
