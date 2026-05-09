@@ -1,14 +1,9 @@
-<div align="center">
-
-<!--<img src="https://github.com/user-attachments/assets/a7781f04-0e6b-43ee-ac03-ecc38ccc523f" width="90"/>-->
+<img width="1456" height="615" alt="logo_principal" src="https://github.com/user-attachments/assets/460b282f-c2d5-4376-a643-9798a1063a6b" />
+</br>
 
 # HI! MY NAME IS DANIEL GONZALEZ 👋
 ### Software Development 🧑🏻‍💻
 
-</div>
-
-<img width="1456" height="615" alt="logo_principal" src="https://github.com/user-attachments/assets/460b282f-c2d5-4376-a643-9798a1063a6b" />
-</br>
 </br>
 
 #### 🌐 English
